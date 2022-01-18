@@ -4,6 +4,7 @@ This project consists of a triangle classification API, made of an AWS CDK proje
 - 1 API Gateway
 - 2 NodeJS Lambdas
 - 1 DynamoDB Table
+- 4 CloudWatch Alarms
 
 The communication between the components occurs as shown below:
 
