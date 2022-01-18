@@ -1,0 +1,17 @@
+{
+  "name": "getclassificationhistory",
+  "main": "app.js",
+  "author": "Jonas Ramos",
+  "dependencies": {
+    "aws-sdk": "^2.1058.0",
+    "axios": "^0.21.1",
+    "uuid": "^8.3.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@shelf/jest-dynamodb": "^2.2.3",
+    "jest": "^27.4.7"
+  }
+}
