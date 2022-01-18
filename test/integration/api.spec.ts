@@ -1,5 +1,5 @@
 const request = require("request-promise-native")
-const endpoint = 'https://5gpwsky8cg.execute-api.us-east-1.amazonaws.com/development'
+const endpoint = 'YOUR_ENDPOINT'
 
 describe('api e2e tests', () => {
     let uid: string
